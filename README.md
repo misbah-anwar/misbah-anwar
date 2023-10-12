@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Misbah Anwar</h1>
-<h3 align="center">AI/ML undergraduate at VIT Chennai.</h3>
+# 💫 About Me:
+I'm an AI and ML undergraduate at VIT Chennai
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/misbah-anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbah-anwar" height="30" width="40" /></a>
-</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/misbah-anwar](https://www.linkedin.com/in/misbah-anwar)) 
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=misbah-anwar&theme=nightowl&hide_border=false)<br/>
+
+![Snake animation](https://github.com/misbah-anwar/misbah-anwar/blob/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=misbah-anwar&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
