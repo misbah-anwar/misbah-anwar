@@ -8,8 +8,5 @@ I'm an AI and ML undergraduate at VIT Chennai
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misbah-anwar&theme=nightowl&hide_border=false)<br/>
-
-![Snake animation](https://github.com/misbah-anwar/misbah-anwar/blob/output/github-contribution-grid-snake.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=misbah-anwar&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
