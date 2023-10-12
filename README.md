@@ -4,7 +4,7 @@ I'm an AI and ML undergraduate at VIT Chennai
 [1]: https://www.linkedin.com/in/misbah-anwar
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/misbah-anwar/"><img align="left" src="https://raw.githubusercontent.com/misbah-anwar/misbah-anwar/main/images/linkedin.svg" alt="Misbah | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/misbah-anwar/"><img align="left" src="https://raw.githubusercontent.com/misbah-anwar/misbah-anwar/main/linkedin.svg" alt="Misbah | LinkedIn" width="21px"/></a>
 
 # 📊 GitHub Stats:
 
