@@ -1,11 +1,6 @@
 # 💫 About Me:
 I'm an AI and ML undergraduate at VIT Chennai
 
-[1]: https://www.linkedin.com/in/misbah-anwar
-
-## 🌐 Socials:
-<i class="ri-linkedin-box-fill"></i>
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misbah-anwar&theme=nightowl&hide_border=false)<br/>
