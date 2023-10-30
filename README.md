@@ -9,6 +9,6 @@ I'm an AI and ML undergraduate at VIT Chennai.
 
 # 🖥️ Tech Stack:
 
-![Flutter](https://img.shields.io/badge/Flutter-%23D00000.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%23150458.svg?style=flat&logo=Dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23D00000.svg?style=flat&logo=HTML&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%23150458.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%23150458.svg?style=flat&logo=Dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23150458.svg?style=flat&logo=HTML&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=misbah-anwar&label=Profile%20Views%3A&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
