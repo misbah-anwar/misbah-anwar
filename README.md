@@ -1,7 +1,7 @@
-# 💫 About Me:
+# About Me:
 I'm an AI and ML undergraduate at VIT Chennai.
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=misbah-anwar&theme=holi-theme)](https://git.io/streak-stats)
 
