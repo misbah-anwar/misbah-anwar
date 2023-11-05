@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hello!
 I'm an AI and ML undergraduate at VIT Chennai.
 
 # 📈 GitHub Stats
