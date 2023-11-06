@@ -8,7 +8,10 @@ I'm an AI and ML undergraduate at VIT Chennai.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-anwar&layout=compact&theme=holi)](https://github.com/misbah-anwar)
 
 # 🖥️ Tech Stack:
-
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
+/>
 <i class="ci ci-flutter"></i>
 
 #
