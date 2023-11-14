@@ -20,4 +20,4 @@ I'm a 3rd year AI and ML undergraduate at VIT Chennai.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #
-![](https://komarev.com/ghpvc/?username=misbah-anwar&base=500&color=grey&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=misbah-anwar&base=200&color=grey&style=for-the-badge)
