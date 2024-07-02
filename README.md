@@ -2,14 +2,14 @@
 I'm Misbah, nice to meet you :)  
 I'm a final year AI and ML undergraduate at VIT Chennai.
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=misbah-anwar&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=misbah-anwar&theme=holi-theme)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misbah-anwar&layout=compact&theme=holi)](https://github.com/misbah-anwar)
 
-## 👩🏻‍💻 Tech Stack
+# 👩🏻‍💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,8 +23,8 @@ I'm a final year AI and ML undergraduate at VIT Chennai.
 ![Firebase](https://img.shields.io/badge/Firebase-470137?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misbah-anwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##
+#
 ![](https://komarev.com/ghpvc/?username=misbah-anwar&color=grey&style=for-the-badge)
